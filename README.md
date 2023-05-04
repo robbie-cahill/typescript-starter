@@ -43,8 +43,12 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
+```
 
-# start with a Public URL tunneling to your local
+## Start with a Public URL
+Run this anywhere to start NestJS with public URL pointing to this instance, powered by [Tunnelmole](https://github.com/robbie-cahill/tunnelmole-client).
+
+```
 $ npm run start:public
 ```
 
